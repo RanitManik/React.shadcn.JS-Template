@@ -12,13 +12,13 @@ follow to make the contribution process smooth and effective for everyone involv
 2. **Clone Your Fork**:
     - Open your terminal and run:
       ```sh
-      git clone https://github.com/RanitManik/Frontend-App-Starter-Template.git
+      git clone https://github.com/RanitManik/React.Vite.Tailwind.JavaScript.ShadcnUI-Template.git
       ```
 
 3. **Create a Branch**:
     - Move into the cloned directory:
       ```sh
-      cd Frontend-App-Starter-Template
+      cd React.Vite.Tailwind.JavaScript.ShadcnUI-Template
       ```
     - Create a new branch for your changes:
       ```sh
