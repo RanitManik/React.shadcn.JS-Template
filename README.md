@@ -1,4 +1,5 @@
 <div align="center">
+  <img height="70px" src="https://github.com/user-attachments/assets/6cc9dfea-da1f-4351-945c-6d770174df0d" alt="Technology Icons">
   <h1>React.shadcn.JS-Template</h1>
 </div>
 
