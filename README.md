@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>React.Vite.Tailwind.JavaScript.ShadcnUI-Template</h1>
+  <h1>React.shadcn.JS-Template</h1>
 </div>
 
-Welcome to the **React.Vite.Tailwind.JavaScript.ShadcnUI-Template**! This template is a robust starting point for
+Welcome to the **React.shadcn.JS-Template**! This template is a robust starting point for
 building modern web applications using Vite and React with ShadcnUI, a design system for creating beautiful and
 consistent UIs.
 
@@ -70,8 +70,8 @@ this repo, creating a pull request, or opening an issue. Your contributions are 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/RanitManik/React.Vite.Tailwind.JavaScript.ShadcnUI-Template.git
-   cd React.Vite.Tailwind.JavaScript.ShadcnUI-Template
+   git clone https://github.com/RanitManik/React.shadcn.JS-Template.git
+   cd React.shadcn.JS-Template
    ```
 
 2. **Install dependencies:**
@@ -175,7 +175,7 @@ The project structure is as follows:
 
 ## Contributing
 
-We welcome contributions to enhance the React.Vite.Tailwind.JavaScript.ShadcnUI-Template project. To contribute:
+We welcome contributions to enhance the React.shadcn.JS-Template project. To contribute:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix:
@@ -210,5 +210,5 @@ _Feel free to reach out if you have questions or just want to chat about web adv
 ---
 
 <p align="center">
-   Thank you for using the <strong>React.Vite.Tailwind.JavaScript.ShadcnUI-Template</strong>! Happy coding! 🚀
+   Thank you for using the <strong>React.shadcn.JS-Template</strong>! Happy coding! 🚀
 </p>

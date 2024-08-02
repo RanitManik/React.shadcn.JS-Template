@@ -12,7 +12,7 @@ follow to make the contribution process smooth and effective for everyone involv
 2. **Clone Your Fork**:
     - Open your terminal and run:
       ```sh
-      git clone https://github.com/RanitManik/React.Vite.Tailwind.JavaScript.ShadcnUI-Template.git
+      git clone https://github.com/RanitManik/React.shadcn.JS-Template.git
       ```
 
 3. **Create a Branch**:
