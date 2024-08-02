@@ -8,14 +8,14 @@ function App() {
       <H1>
         <a
           className="font-medium text-blue-500"
-          href="https://github.com/RanitManik/React.Vite.Tailwind.JavaScript.ShadcnUI-Template"
+          href="https://github.com/RanitManik/React.shadcn.JS-Template"
         >
           Frontend App Template
         </a>
       </H1>
       <p className="leading-7 [&:not(:first-child)]:mt-3">
         Welcome to the{" "}
-        <strong>React.Vite.Tailwind.JavaScript.ShadcnUI-Template</strong> This
+        <strong>React.shadcn.JS-Template</strong> This
         template is a robust starting point for building modern web applications
         using Vite and React with ShadcnUI, a design system for creating
         beautiful and consistent UIs.
@@ -29,12 +29,12 @@ function App() {
             Clone the repository:{" "}
             <Code>
               git clone
-              https://github.com/RanitManik/React.Vite.Tailwind.JavaScript.ShadcnUI-Template.git
+              https://github.com/RanitManik/React.shadcn.JS-Template.git
             </Code>
           </li>
           <li>
             Navigate into the project directory:{" "}
-            <Code>cd React.Vite.Tailwind.JavaScript.ShadcnUI-Template</Code>
+            <Code>cd React.shadcn.JS-Template</Code>
           </li>
           <li>
             Install dependencies: <Code>npm install</Code> or{" "}
@@ -143,14 +143,14 @@ function App() {
         please fork the repository and submit a pull request. For more details,
         refer to the{" "}
         <a
-          href="https://github.com/RanitManik/React.Vite.Tailwind.JavaScript.ShadcnUI-Template/issues"
+          href="https://github.com/RanitManik/React.shadcn.JS-Template/issues"
           className="font-medium text-primary underline underline-offset-4"
         >
           issues
         </a>{" "}
         and{" "}
         <a
-          href="https://github.com/RanitManik/React.Vite.Tailwind.JavaScript.ShadcnUI-Template/pulls"
+          href="https://github.com/RanitManik/React.shadcn.JS-Template/pulls"
           className="font-medium text-primary underline underline-offset-4"
         >
           pull requests
